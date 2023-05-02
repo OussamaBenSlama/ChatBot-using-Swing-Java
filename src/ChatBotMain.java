@@ -105,7 +105,7 @@ public class ChatBotMain extends JFrame {
     pane.repaint();
 	pane.add(Box.createRigidArea(new Dimension(0, 10))); // 10-pixel gap between labels
     
-	String apiKey = "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";
+	String apiKey = "your api key";
     String prompt = query;
     int maxTokens = 15;
 	
